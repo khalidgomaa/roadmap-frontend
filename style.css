@@ -1,0 +1,206 @@
+html {box-sizing: border-box;} 
+ 
+*, *:before, *:after {box-sizing: inherit;}
+html {
+    background-color: rgb(131, 92, 92);
+    color: blanchedalmond;
+   
+}
+
+ 
+
+h1 {
+    color: rgb(234, 237, 240);
+    font-size: 50px;
+    text-align: center;
+    background-color:rgb(64, 69, 75); 
+    border-radius:60px ;
+    margin: 10px;
+    width: 700px;
+    margin-left:auto ;
+    margin-right:auto ;
+margin-top: 0; 
+
+}
+h1:hover {
+background-color: rgb(15, 17, 17);
+padding: 5px;
+transition: all 1s;
+}
+.time{
+    float:right;
+    clear:both;
+
+}
+
+section{
+    display: inline;
+}
+a:hover {
+background-color: aqua;
+transition: all 1s;
+
+}
+
+
+.bar {
+   
+    border: 3px solid blue);
+    background-color: blue;
+    display: inline-block;
+    float: right;
+    width: 600px;
+border-radius:10px 30px ;
+       margin:0;
+}
+
+.home{
+border: 1px;
+color: aliceblue;
+padding: 15px;
+float: left;
+background-color: rgb(73, 36, 36);
+font-size: 20px;
+border-radius:10px 30px ;
+
+}
+.news{
+padding: 15px;
+   
+    color: aliceblue;
+float: left;
+border-radius:10px 30px ;
+
+font-size: 20px;
+   
+    float: left;
+
+}
+
+.contact{
+    
+    color: aliceblue;
+float: left;
+font-size: 20px;
+border-radius:10px 30px ;
+
+padding: 15px;
+
+
+}
+.about{
+
+color: aliceblue;
+padding: 15px;
+font-size: 20px;
+float: right;
+border-radius:10px 30px ;
+
+}
+label {
+    min-width: 120px;
+}
+fieldset
+{
+    width: 300px;
+    height: 150px;
+    display: inline;
+    border-radius:30px ;
+    padding: 10px;
+background-color: rgb(33, 33, 170);
+margin-top: 30px;
+}
+input
+{
+    background-color:rgb(190, 165, 165) ;
+}
+input:hover {
+    background-color:rgb(191, 243, 124) ;
+transition: all 1s;
+
+
+}
+
+
+main {
+    background-color:rgb(177, 89, 148); 
+    border-radius: 5px;
+    width: 73%;
+
+}
+header ,footer {
+      background-color:rgb(145, 100, 34);  padding: 15px; 
+       border-radius:40px ; margin :0  ;
+       border-bottom: 30px solid rgb(78, 18, 218);
+       border-bottom-left-radius: 50px;
+       border-bottom-right-radius: 50px;
+       
+      
+}
+aside  {
+    text-align: center;
+    float: right;
+    width: 25%;
+    background-color: azure;
+    color:cadetblue;
+    padding: 20px;
+    border-radius:40px;
+    height: 1600px;
+    
+}
+footer {
+    color: rgb(59, 29, 141);
+    font-size: 15px;
+    text-align: center;
+    clear: both;
+}
+
+
+h2 {
+    color:lightcoral;
+    text-align: center;
+}
+
+mark {
+    background-color:royalblue;
+    font-size: 25px;
+}
+
+
+
+
+
+nav {
+    text-align: center;
+    
+
+    
+}
+
+a {
+    color: rgb(59, 29, 141);
+    text-decoration: none;
+display: inline-block;
+    }
+
+image {
+     border-radius:50px ;
+}
+h4 {
+    background-color:lightcoral ;
+    border-radius: 40px;
+}
+
+
+
+.m1 , .m2 , .m3   {
+    border-radius: 70px;
+}
+.m4{
+    border-radius: 30px;
+float: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
